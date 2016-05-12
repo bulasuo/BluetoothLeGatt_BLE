@@ -44,6 +44,6 @@ API文档献上：
 3.device连接Gatt,
 4.要获取蓝牙设备的service必须先Gatt.discoverServices();
 
-所以如果获取不到蓝牙设备的service则 可能是忘记Gatt.discoverServices();
+所以如果获取不到蓝牙设备的service则 可能是忘记Gatt.discoverServices();s
 
   
