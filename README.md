@@ -37,4 +37,13 @@ API文档献上：
   
 7.本人开发的5个蓝牙设备只有一个是告知了Uuid的，所以对于设备协议文档没有告知读写Uuid的，兄弟你只能一个个去试了。不过一个个试也很快，Demo里我也写了自己的方法，把每个Characteristic都设置为Notify enable，然后再给每个Characteristic都写一条可以使得设备返回数据的 指令。
 
-记得Gatt不用的时候要关闭：BluetoothGatt.close()。 
+记得Gatt不用的时候要关闭：BluetoothGatt.close()。
+
+1.bindBooleathService,
+2.scanDevice
+3.device连接Gatt,
+4.要获取蓝牙设备的service必须先Gatt.discoverServices();
+
+所以如果获取不到蓝牙设备的service则 可能是忘记Gatt.discoverServices();
+
+  
