@@ -43,7 +43,15 @@ API文档献上：
 2.scanDevice
 3.device连接Gatt,
 4.要获取蓝牙设备的service必须先Gatt.discoverServices();
+5.notifyEnable 上行character 并且该character的 所有描述Descripter 都使能
 
-所以如果获取不到蓝牙设备的service则 可能是忘记Gatt.discoverServices();s
+所以如果获取不到蓝牙设备的service则 可能是忘记Gatt.discoverServices();
+
+character notifyEnable 里 要记得设置 该character 的指定的Description使能 ，如果不知道指定的Description是哪个则遍历该character所有Description都使能
+
+BluetoothGatt.notify(character),  BluetoothGatt.write(character),BluetoothGatt.read(character) 记得之间要休眠一段时间 同一时间 通道只写一条数据 不然会数据混乱
+
+怎样实现防抖效果？ 1.该任务延迟n后执行  2.该任务做成单例（单任务防抖） 或者不做成单例（多任务防抖）
+
 
   
