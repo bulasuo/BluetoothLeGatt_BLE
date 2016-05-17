@@ -6,6 +6,7 @@ import java.util.Date;
 public class XUtil {
 	/**
 	 *@author   abu   2016/3/22   11:01
+	 * abu++++++
 	 */
 	public static String getCurrentDate(){
 		Calendar cal = Calendar.getInstance();
