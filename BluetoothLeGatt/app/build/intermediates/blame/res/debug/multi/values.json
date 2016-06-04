@@ -1,6 +1,6 @@
 [
     {
-        "outputFile": "E:\\0220\\abu\\Bluetooth\\BluetoothLeGatt\\app\\build\\intermediates\\res\\merged\\debug\\values\\values.xml",
+        "outputFile": "E:\\0220\\BluetoothLeGatt_BLE\\BluetoothLeGatt\\app\\build\\intermediates\\res\\merged\\debug\\values\\values.xml",
         "map": [
             {
                 "to": {
@@ -11,13 +11,13 @@
                     "endOffset": 98
                 },
                 "from": {
-                    "file": "E:\\0220\\abu\\Bluetooth\\BluetoothLeGatt\\app\\src\\main\\res\\values\\strings.xml",
+                    "file": "E:\\0220\\BluetoothLeGatt_BLE\\BluetoothLeGatt\\app\\src\\main\\res\\values\\strings.xml",
                     "position": {
                         "startLine": 16,
                         "startColumn": 4,
-                        "startOffset": 686,
+                        "startOffset": 702,
                         "endColumn": 47,
-                        "endOffset": 729
+                        "endOffset": 745
                     }
                 }
             },
@@ -30,13 +30,13 @@
                     "endOffset": 165
                 },
                 "from": {
-                    "file": "E:\\0220\\abu\\Bluetooth\\BluetoothLeGatt\\app\\src\\main\\res\\values\\strings.xml",
+                    "file": "E:\\0220\\BluetoothLeGatt_BLE\\BluetoothLeGatt\\app\\src\\main\\res\\values\\strings.xml",
                     "position": {
                         "startLine": 17,
                         "startColumn": 4,
-                        "startOffset": 734,
+                        "startOffset": 751,
                         "endColumn": 66,
-                        "endOffset": 796
+                        "endOffset": 813
                     }
                 }
             },
@@ -49,13 +49,13 @@
                     "endOffset": 213
                 },
                 "from": {
-                    "file": "E:\\0220\\abu\\Bluetooth\\BluetoothLeGatt\\app\\src\\main\\res\\values\\strings.xml",
+                    "file": "E:\\0220\\BluetoothLeGatt_BLE\\BluetoothLeGatt\\app\\src\\main\\res\\values\\strings.xml",
                     "position": {
                         "startLine": 22,
                         "startColumn": 4,
-                        "startOffset": 1002,
+                        "startOffset": 1024,
                         "endColumn": 47,
-                        "endOffset": 1045
+                        "endOffset": 1067
                     }
                 }
             },
@@ -68,13 +68,13 @@
                     "endOffset": 267
                 },
                 "from": {
-                    "file": "E:\\0220\\abu\\Bluetooth\\BluetoothLeGatt\\app\\src\\main\\res\\values\\strings.xml",
+                    "file": "E:\\0220\\BluetoothLeGatt_BLE\\BluetoothLeGatt\\app\\src\\main\\res\\values\\strings.xml",
                     "position": {
                         "startLine": 23,
                         "startColumn": 4,
-                        "startOffset": 1050,
+                        "startOffset": 1073,
                         "endColumn": 53,
-                        "endOffset": 1099
+                        "endOffset": 1122
                     }
                 }
             },
@@ -87,13 +87,13 @@
                     "endOffset": 350
                 },
                 "from": {
-                    "file": "E:\\0220\\abu\\Bluetooth\\BluetoothLeGatt\\app\\src\\main\\res\\values\\strings.xml",
+                    "file": "E:\\0220\\BluetoothLeGatt_BLE\\BluetoothLeGatt\\app\\src\\main\\res\\values\\strings.xml",
                     "position": {
                         "startLine": 25,
                         "startColumn": 4,
-                        "startOffset": 1162,
+                        "startOffset": 1187,
                         "endColumn": 82,
-                        "endOffset": 1240
+                        "endOffset": 1265
                     }
                 }
             },
@@ -106,13 +106,13 @@
                     "endOffset": 395
                 },
                 "from": {
-                    "file": "E:\\0220\\abu\\Bluetooth\\BluetoothLeGatt\\app\\src\\main\\res\\values\\strings.xml",
+                    "file": "E:\\0220\\BluetoothLeGatt_BLE\\BluetoothLeGatt\\app\\src\\main\\res\\values\\strings.xml",
                     "position": {
                         "startLine": 18,
                         "startColumn": 4,
-                        "startOffset": 801,
+                        "startOffset": 819,
                         "endColumn": 44,
-                        "endOffset": 841
+                        "endOffset": 859
                     }
                 }
             },
@@ -125,13 +125,13 @@
                     "endOffset": 460
                 },
                 "from": {
-                    "file": "E:\\0220\\abu\\Bluetooth\\BluetoothLeGatt\\app\\src\\main\\res\\values\\strings.xml",
+                    "file": "E:\\0220\\BluetoothLeGatt_BLE\\BluetoothLeGatt\\app\\src\\main\\res\\values\\strings.xml",
                     "position": {
                         "startLine": 19,
                         "startColumn": 4,
-                        "startOffset": 846,
+                        "startOffset": 865,
                         "endColumn": 64,
-                        "endOffset": 906
+                        "endOffset": 925
                     }
                 }
             },
@@ -144,13 +144,13 @@
                     "endOffset": 507
                 },
                 "from": {
-                    "file": "E:\\0220\\abu\\Bluetooth\\BluetoothLeGatt\\app\\src\\main\\res\\values\\strings.xml",
+                    "file": "E:\\0220\\BluetoothLeGatt_BLE\\BluetoothLeGatt\\app\\src\\main\\res\\values\\strings.xml",
                     "position": {
                         "startLine": 20,
                         "startColumn": 4,
-                        "startOffset": 911,
+                        "startOffset": 931,
                         "endColumn": 46,
-                        "endOffset": 953
+                        "endOffset": 973
                     }
                 }
             },
@@ -163,13 +163,13 @@
                     "endOffset": 556
                 },
                 "from": {
-                    "file": "E:\\0220\\abu\\Bluetooth\\BluetoothLeGatt\\app\\src\\main\\res\\values\\strings.xml",
+                    "file": "E:\\0220\\BluetoothLeGatt_BLE\\BluetoothLeGatt\\app\\src\\main\\res\\values\\strings.xml",
                     "position": {
                         "startLine": 32,
                         "startColumn": 4,
-                        "startOffset": 1463,
+                        "startOffset": 1495,
                         "endColumn": 48,
-                        "endOffset": 1507
+                        "endOffset": 1539
                     }
                 }
             },
@@ -182,13 +182,13 @@
                     "endOffset": 611
                 },
                 "from": {
-                    "file": "E:\\0220\\abu\\Bluetooth\\BluetoothLeGatt\\app\\src\\main\\res\\values\\strings.xml",
+                    "file": "E:\\0220\\BluetoothLeGatt_BLE\\BluetoothLeGatt\\app\\src\\main\\res\\values\\strings.xml",
                     "position": {
                         "startLine": 33,
                         "startColumn": 4,
-                        "startOffset": 1512,
+                        "startOffset": 1545,
                         "endColumn": 54,
-                        "endOffset": 1562
+                        "endOffset": 1595
                     }
                 }
             },
@@ -201,13 +201,13 @@
                     "endOffset": 654
                 },
                 "from": {
-                    "file": "E:\\0220\\abu\\Bluetooth\\BluetoothLeGatt\\app\\src\\main\\res\\values\\strings.xml",
+                    "file": "E:\\0220\\BluetoothLeGatt_BLE\\BluetoothLeGatt\\app\\src\\main\\res\\values\\strings.xml",
                     "position": {
                         "startLine": 34,
                         "startColumn": 4,
-                        "startOffset": 1567,
+                        "startOffset": 1601,
                         "endColumn": 42,
-                        "endOffset": 1605
+                        "endOffset": 1639
                     }
                 }
             },
@@ -220,13 +220,13 @@
                     "endOffset": 697
                 },
                 "from": {
-                    "file": "E:\\0220\\abu\\Bluetooth\\BluetoothLeGatt\\app\\src\\main\\res\\values\\strings.xml",
+                    "file": "E:\\0220\\BluetoothLeGatt_BLE\\BluetoothLeGatt\\app\\src\\main\\res\\values\\strings.xml",
                     "position": {
                         "startLine": 35,
                         "startColumn": 4,
-                        "startOffset": 1610,
+                        "startOffset": 1645,
                         "endColumn": 42,
-                        "endOffset": 1648
+                        "endOffset": 1683
                     }
                 }
             },
@@ -239,13 +239,13 @@
                     "endOffset": 741
                 },
                 "from": {
-                    "file": "E:\\0220\\abu\\Bluetooth\\BluetoothLeGatt\\app\\src\\main\\res\\values\\strings.xml",
+                    "file": "E:\\0220\\BluetoothLeGatt_BLE\\BluetoothLeGatt\\app\\src\\main\\res\\values\\strings.xml",
                     "position": {
                         "startLine": 21,
                         "startColumn": 4,
-                        "startOffset": 958,
+                        "startOffset": 979,
                         "endColumn": 43,
-                        "endOffset": 997
+                        "endOffset": 1018
                     }
                 }
             },
@@ -258,13 +258,13 @@
                     "endOffset": 799
                 },
                 "from": {
-                    "file": "E:\\0220\\abu\\Bluetooth\\BluetoothLeGatt\\app\\src\\main\\res\\values\\strings.xml",
+                    "file": "E:\\0220\\BluetoothLeGatt_BLE\\BluetoothLeGatt\\app\\src\\main\\res\\values\\strings.xml",
                     "position": {
                         "startLine": 24,
                         "startColumn": 4,
-                        "startOffset": 1104,
+                        "startOffset": 1128,
                         "endColumn": 57,
-                        "endOffset": 1157
+                        "endOffset": 1181
                     }
                 }
             },
@@ -277,13 +277,13 @@
                     "endOffset": 873
                 },
                 "from": {
-                    "file": "E:\\0220\\abu\\Bluetooth\\BluetoothLeGatt\\app\\src\\main\\res\\values\\strings.xml",
+                    "file": "E:\\0220\\BluetoothLeGatt_BLE\\BluetoothLeGatt\\app\\src\\main\\res\\values\\strings.xml",
                     "position": {
                         "startLine": 28,
                         "startColumn": 4,
-                        "startOffset": 1304,
+                        "startOffset": 1332,
                         "endColumn": 73,
-                        "endOffset": 1373
+                        "endOffset": 1401
                     }
                 }
             },
@@ -296,13 +296,13 @@
                     "endOffset": 931
                 },
                 "from": {
-                    "file": "E:\\0220\\abu\\Bluetooth\\BluetoothLeGatt\\app\\src\\main\\res\\values\\strings.xml",
+                    "file": "E:\\0220\\BluetoothLeGatt_BLE\\BluetoothLeGatt\\app\\src\\main\\res\\values\\strings.xml",
                     "position": {
                         "startLine": 27,
                         "startColumn": 4,
-                        "startOffset": 1246,
+                        "startOffset": 1273,
                         "endColumn": 57,
-                        "endOffset": 1299
+                        "endOffset": 1326
                     }
                 }
             },
@@ -315,13 +315,13 @@
                     "endOffset": 991
                 },
                 "from": {
-                    "file": "E:\\0220\\abu\\Bluetooth\\BluetoothLeGatt\\app\\src\\main\\res\\values\\strings.xml",
+                    "file": "E:\\0220\\BluetoothLeGatt_BLE\\BluetoothLeGatt\\app\\src\\main\\res\\values\\strings.xml",
                     "position": {
                         "startLine": 29,
                         "startColumn": 4,
-                        "startOffset": 1378,
+                        "startOffset": 1407,
                         "endColumn": 59,
-                        "endOffset": 1433
+                        "endOffset": 1462
                     }
                 }
             }
